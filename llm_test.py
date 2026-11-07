@@ -32,5 +32,5 @@ def ask_llm(user_question):
     print(f"🤖 LLM 답변: {response.strip()}\n")
 
 # 4. 테스트 실행
-ask_llm("안녕하세요! 오픈소스 LLM이 무엇인지 간단하게 설명해주세요.")
-ask_llm("파이썬에서 회귀 분석을 할 때 사용하는 대표적인 라이브러리는 무엇인가요?")
+ask_llm("안녕하세요! 지금 부산 날씨 알려주세요.")
+ask_llm("미국의 수도는 뭘까요?")
